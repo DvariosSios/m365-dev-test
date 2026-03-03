@@ -22,4 +22,4 @@ Repositorio de desarrollo y pruebas para la integración de soluciones corporati
 Este repositorio es mantenido por el equipo de tecnología de Clyvernaut Inc. para fines de I+D interno.
 
 ---
-© 2024 Clyvernaut Inc. Todos los derechos reservados.
+© 2026Clyvernaut Inc. Todos los derechos reservados.
